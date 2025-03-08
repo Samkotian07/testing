@@ -82,8 +82,8 @@ function About() {
     <div id="call-to-action" className="call-to-action">
       <div className="about-section" data-aos="fade-up" data-aos-delay={100}>
         <div className="nav-links">
-          <a href="#">HOME</a>
-          <a href="#">ABOUT</a>
+          <a href="/">HOME</a>
+          <a href="/about">ABOUT</a>
         </div>
         <h1>About Us</h1>
         <div className="slant" />
